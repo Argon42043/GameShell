@@ -1,0 +1,302 @@
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n>1;\n"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-HELP/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-HELP/de.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-help/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-help/de.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-init-msg-short/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-init-msg-short/de.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-init-msg/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-init-msg/de.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-welcome/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-welcome/de.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/start-help/en.txt"
+msgstr  "$GSH_ROOT/i18n/start-help/de.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+#, sh-format
+msgid   "$nb_failed_tests failures out of $nb_tests tests"
+msgstr  "$nb_failed_tests Fehler von $nb_tests Tests"
+
+#, sh-format
+msgid   "$nb_tests successful tests"
+msgstr  "$nb_tests erfolgreiche Tests"
+
+#, awk-format
+msgid   "%d authentification failure"
+msgid_plural    "%d authentification failures"
+msgstr[0]       "%d Authentifizierungsfehler"
+msgstr[1]       "%d Authentifizierungsfehler"
+
+#, awk-format
+msgid   "%d mission cancelled for missing dependencies:"
+msgid_plural    "%d missions cancelled for missing dependencies:"
+msgstr[0]       "%d Mission wegen fehlender Abhängigkeiten abgebrochen:"
+msgstr[1]       "%d Missionen abgebrochen wegen fehlender Abhängigkeiten:"
+
+#, awk-format
+msgid   "%d mission passed using the auto.sh script:"
+msgid_plural    "%d missions passed using the auto.sh script:"
+msgstr[0]       "%d Mission mit dem auto.sh-Skript bestanden:"
+msgstr[1]       "%d Missionen mit dem auto.sh-Skript bestanden:"
+
+#, awk-format
+msgid   "%d mission passed:"
+msgid_plural    "%d missions passed:"
+msgstr[0]       "%d Mission erfüllt:"
+msgstr[1]       "%d Missionen erfüllt:"
+
+#, awk-format
+msgid   "%d mission skipped:"
+msgid_plural    "%d missions skipped:"
+msgstr[0]       "%d Mission übersprungen:"
+msgstr[1]       "%d Missionen übersprungen:"
+
+msgid   "AUTOMATICALLY GENERATED ON STARTUP -- DO NOT MODIFY"
+msgstr  "AUTOMATISCH BEIM STARTEN ERSTELLT -- NICHT ÄNDERN"
+
+#, sh-format
+msgid   "Congratulations, mission $MISSION_NB has been successfully completed!"
+msgstr  "Herzlichen Glückwunsch, Mission $MISSION_NB wurde erfolgreich abgeschlossen!"
+
+#, sh-format
+msgid   "Error: _gsh_assert_check only accept 'true' and 'false' as argument."
+msgstr  "Fehler: _gsh_assert_check akzeptiert nur 'true' und 'false' als Argument."
+
+msgid   "Error: a least one base function is not working properly.\n"
+        "Aborting!"
+msgstr  "Fehler: Mindestens eine Basisfunktion funktioniert nicht richtig.\n"
+        "Abbrechen!"
+
+#, sh-format
+msgid   "Error: couldn't get mission number $MISSION_NB (from $fn_name)"
+msgstr  "Fehler: Missionsnummer $MISSION_NB konnte nicht abgerufen werden (von $fn_name)"
+
+#, sh-format
+msgid   "Error: invalid option: '-$OPTARG'"
+msgstr  "Fehler: ungültige Option: '-$OPTARG'"
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't exist!"
+msgstr  "Fehler: Mission $MISSION_NB existiert nicht!"
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't have a test script."
+msgstr  "Fehler: Mission $MISSION_NB hat kein Testskript."
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't have an auto script."
+msgstr  "Fehler: Mission $MISSION_NB hat kein automatisches Skript."
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB is cancelled because some dependencies are not met."
+msgstr  "Fehler: Mission $MISSION_NB wird abgebrochen, da einige Abhängigkeiten nicht erfüllt sind."
+
+msgid   "Error: no mission was found!\n"
+        "Aborting."
+msgstr  "Fehler: Es wurde keine Mission gefunden!\n"
+        "Abbruch."
+
+msgid   "Error: the 'goto' command requires a mission number as argument."
+msgstr  "Fehler: Der 'goto'-Befehl erfordert eine Missionsnummer als Argument."
+
+msgid   "Error: the command 'gsh hardreset' shouldn't be run inside a subshell!"
+msgstr  "Fehler: Der Befehl 'gsh hardreset' sollte nicht innerhalb einer Subshell ausgeführt werden!"
+
+msgid   "Error: the command 'gsh reset' shouldn't be run inside a subshell!"
+msgstr  "Fehler: Der Befehl 'gsh reset' sollte nicht innerhalb einer Subshell ausgeführt werden!"
+
+msgid   "Error: this option is only available from an executable archive!"
+msgstr  "Fehler: Diese Option ist nur aus einem ausführbaren Archiv verfügbar!"
+
+#, sh-format
+msgid   "Error: unknown gsh command '$cmd'.\n"
+        "Use one of the following commands:"
+msgstr  "Fehler: unbekannter gsh-Befehl '$cmd'.\n"
+        "Verwende einen der folgenden Befehle:"
+
+#, sh-format
+msgid   "Error: unknown shell '$SHELL'.\n"
+        "Run GameShell with either bash or zsh."
+msgstr  "Fehler: unbekannte Shell '$SHELL'.\n"
+        "Führe GameShell entweder mit bash oder zsh aus."
+
+msgid   "Error: wrong password."
+msgstr  "Fehler: falsches Passwort."
+
+msgid   "Error: you are not allowed to run this command."
+msgstr  "Fehler: Du bist nicht berechtigt, diesen Befehl auszuführen."
+
+msgid   "Error: you shouldn't run Gameshell as root!"
+msgstr  "Fehler: Du solltest Gameshell nicht als root ausführen!"
+
+msgid   "Is this information correct? [Y/n]"
+msgstr  "Sind diese Informationen korrekt? [J/n]"
+
+#, sh-format
+msgid   "Mission $MISSION_NB has been cancelled."
+msgstr  "Mission $MISSION_NB wurde abgebrochen."
+
+msgid   "N"
+msgstr  "N"
+
+msgid   "Player's email:"
+msgstr  "E-Mail des Spielers:"
+
+msgid   "Player's name:"
+msgstr  "Name des Spielers:"
+
+msgid   "Press Enter to continue."
+msgstr  "Drücke die Eingabetaste, um fortzufahren."
+
+msgid   "START OF COMMANDS HISTORY"
+msgstr  "BEGINN DES BEFEHLSVERLAUFS"
+
+#, sh-format
+msgid   "Sorry, mission $MISSION_NB hasn't been completed."
+msgstr  "Entschuldigung, Mission $MISSION_NB wurde nicht abgeschlossen."
+
+#, sh-format
+msgid   "The directory $GSH_CONFIG contains meta-data from a previous game.\n"
+        "Do you want to remove it and start a new game? [y/N]"
+msgstr  "Das Verzeichnis $SSH CONFIG enthält Metadaten von einem früheren Spiel.\n"
+        "Möchtest du es entfernen und ein neues Spiel starten? [j/N]"
+
+msgid   "The latest version of Gameshell is available at"
+msgstr  "Die neueste Version von Gameshell ist verfügbar unter"
+
+msgid   "There are stopped jobs in your session.\n"
+        "Those processes will be terminated.\n"
+        "You can get the list of those jobs with\n"
+        "    $ jobs\n"
+        "Do you still want to quit? [y/n]"
+msgstr  "Es gibt angehaltene Jobs in deiner Sitzung.\n"
+        "Diese Prozesse werden beendet.\n"
+        "Die Liste dieser Jobs erhältst du mit\n"
+        "    $ jobs\n"
+        "Willst du immer noch verlassen? [j/n]"
+
+msgid   "Warning: the file 'treasure.sh' was sourced from a subshell.\n"
+        "You should use the command\n"
+        "  $ gsh reset"
+msgstr  "Warnung: Die Datei 'treasure.sh' wurde von einer Subshell bezogen.\n"
+        "Du solltest den Befehl\n verwenden"
+        "  $ gsh reset"
+
+msgid   "Warning: this mission was initialized in a subshell.\n"
+        "Run the command\n"
+        "    $ gsh reset\n"
+        "to make sure the mission is initialized properly."
+msgstr  "Warnung: Diese Mission wurde in einer Subshell initialisiert.\n"
+        "Führe den Befehl\n"
+        "    $ gsh reset\n"
+        "aus, um sicherzustellen, dass die Mission richtig initialisiert wird."
+
+msgid   "While you are waiting, a bat flies by..."
+msgstr  "Während du wartest, fliegt eine Fledermaus vorbei..."
+
+msgid   "While you are waiting, a caterpillar crawls by..."
+msgstr  "Während du wartest, kriecht eine Raupe vorbei..."
+
+msgid   "While you are waiting, a centipede crawls by..."
+msgstr  "Während du wartest, kriecht ein Tausendfüßler vorbei..."
+
+msgid   "While you are waiting, a duck swims by..."
+msgstr  "Während du wartest, schwimmt eine Ente vorbei..."
+
+msgid   "While you are waiting, a fish swims by..."
+msgstr  "Während du wartest, schwimmt ein Fisch vorbei..."
+
+msgid   "While you are waiting, a large fish swims by..."
+msgstr  "Während du wartest, schwimmt ein großer Fisch vorbei..."
+
+msgid   "While you are waiting, a snail goes by..."
+msgstr  "Während du wartest, kommt eine Schnecke vorbei..."
+
+msgid   "While you are waiting, a snake slithers by..."
+msgstr  "Während du wartest, schlängelt sich eine Schlange vorbei..."
+
+msgid   "While you are waiting, a spider crawls by..."
+msgstr  "Während du wartest, kriecht eine Spinne vorbei..."
+
+msgid   "While you are waiting, an ant crawls by..."
+msgstr  "Während du wartest, kriecht eine Ameise vorbei..."
+
+msgid   "While you are waiting, you see a fish swimming in circles..."
+msgstr  "Während du wartest, siehst du einen Fisch im Kreis schwimmen..."
+
+msgid   "Y"
+msgstr  "J"
+
+msgid   "You left GameShell's directory structure. Use\n"
+        "    $ cd\n"
+        "to go back to the GameShell's starting directory."
+msgstr  "Du hast die Verzeichnisstruktur von GameShell verlassen. Benutze\n"
+        "    $ cd\n"
+        "um zum Startverzeichnis der GameShell zurückzukehren."
+
+msgid   "[Press space to continue, q to quit\\.]"
+msgstr  "[Leertaste drücken, um fortzufahren, q zum Beenden\\.]"
+
+msgid   "cancelled"
+msgstr  "abgebrochen"
+
+msgid   "completed"
+msgstr  "abgeschlossen"
+
+msgid   "days"
+msgstr  "Tage"
+
+msgid   "failed"
+msgstr  "fehlgeschlagen"
+
+#, awk-format
+msgid   "game time: %s in %d session"
+msgid_plural    "game time: %s in %d sessions"
+msgstr[0]       "Spielzeit: %s in %d Sitzung"
+msgstr[1]       "Spielzeit: %s in %d Sitzungen"
+
+msgid   "n"
+msgstr  "n"
+
+msgid   "password:"
+msgstr  "Passwort:"
+
+msgid   "skipped"
+msgstr  "übersprungen"
+
+#, sh-format
+msgid   "test $nb_tests failed"
+msgstr  "test $nb_tests fehlgeschlagen"
+
+#, awk-format
+msgid   "total time: %s"
+msgstr  "Gesamtzeit: %s"
+
+msgid   "y"
+msgstr  "j"

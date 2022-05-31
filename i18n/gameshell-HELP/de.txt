@@ -1,0 +1,79 @@
+GameShell-spezifische Befehle
+=============================
+
+gsh assert condition [msg]
+  überprüft, ob die Bedingung wahr ist
+  wenn nicht, zeige eine Fehlermeldung
+
+gsh assert check true/false [msg]
+  überprüft, ob das Ziel der aktuellen Mission erreicht wurde
+  wenn das Ergebnis nicht mit dem erwarteten Ergebnis übereinstimmt, 
+  wird eine Fehlermeldung angezeigt
+
+gsh auto                              (ADMIN)
+  source das automatische Skript der aktuellen Mission, falls vorhanden
+
+gsh check
+  überprüft, ob das Ziel der aktuellen Mission erreicht wurde oder nicht
+
+gsh exit
+  beendet GameShell
+  (du kannst die aktuelle Mission fortsetzen, indem du das start.sh Skript 
+  mit der "-C" Flag ausführst)
+
+gsh goal [N]
+  zeigt das aktuelle Missionsziel an
+   wenn N gegeben ist, wird das Missionsziel für Mission N angezeigt
+
+gsh goto N                            (ADMIN)
+  geht direkt zu Mission N
+   (es wird kein Passwort benötigt, wenn N eine frühere Mission ist)
+
+gsh hardreset
+  setzt die aktuelle Mission zurück, indem die shell neu gestartet wird
+
+gsh HELP
+  dieser Hilfetext
+
+gsh help
+  kürzerer Hilfetext
+
+gsh index
+  zeigt eine Liste der Missionen mit ihrem Status anzeigen
+
+gsh log [-v]
+  show the log file of gsh commands
+  zeigt die log-Datei der gsh-Aktionen
+
+gsh pcm
+  zeigt die aktuelle Missionsnummer
+
+gsh protect
+gsh unprotect
+  GameShell-Verzeichnissschutz aktivieren / deaktivieren
+
+gsh reset
+  aktuelle Mission zurücksetzen
+
+gsh resetstatic
+  generiert alle statischen Teile der Welt neu  
+
+gsh skip
+  die aktuelle Mission aufgeben und zur nächsten gehen
+  (es wird kein Passwort benötigt, wenn die Mission mindestens ein mal 
+  abgeschlossen wurde)
+
+gsh stat
+  zeigt einfache Statistiken über abgeschlossene Missionen an
+
+gsh systemconfig
+  zeigt die Systemkonfiguration an
+
+gsh test
+  Führt das Testskript der aktuellen Mission aus, falls vorhanden
+
+gsh version
+  zeigt die Gameshell-Version
+
+gsh welcome
+  zeigt die Willkommensnachricht

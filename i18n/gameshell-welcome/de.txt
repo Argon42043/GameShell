@@ -1,0 +1,22 @@
+Willkommen bei GameShell!
+
+Um einen Computer mit einem Unix-like Betriebssystem (z.B. Linux, 
+BSD oder macOS)zu bedienen und zu administrieren, erfordert es 
+die Verwendung einer Befehlszeile namens "Shell". In diesem Spiel 
+wirst du lernen, wie man die Shell benutzt, indem du dich auf 
+eine Reise mit verschiedene Missionen begibst und dabei lernst, 
+grundlegende Aufgaben zu erledigen, wie:
+  - Verzeichnisse erstellen,
+  - Dateien erstellen, ansehen und bearbeiten,
+  - nach Dateien suchen, die bestimmte Kriterien erfüllen,
+  - Programme ausführen und anhalten,
+  - etc.
+
+Während deinem Abenteuer wirst du Orte besuchen, mit Menschen 
+interagieren und verschiedene Objekte finden. Vergiss aber nicht, 
+dass es sich um Standardverzeichnisse, -programme und -dateien 
+(oft mit zufälligen Inhalten) handelt. Also zum Beispiel:
+  - "baue eine Hütte" bedeutet, ein Verzeichnis namens „Hütte“ zu 
+    erstellen, und
+  - "lege eine Münze in deine Truhe", bedeutet, eine Datei namens 
+    "Münze" in ein Verzeichnis namens "Truhe" zu verschieben

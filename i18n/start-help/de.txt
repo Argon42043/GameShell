@@ -1,0 +1,28 @@
+optionen:
+  -h      diese Nachricht
+
+  -P      Passmodus: frägt nach dem Namen / der E-Mail des Spielers
+  -A      Anonymer Modus
+  -d      Debug-Modus
+  -D      ausführlicher Debug-Modus
+
+  -C      aktuelles Spiel fortsetzen (falls vorhanden)
+  -R      Spiel zurücksetzen
+
+  -L ...  setze LANGUAGE Variable (z.B.: -L fr:it:en)
+          Setze auf Nicht-GNU-Systemen die Variable LC_MESSAGES
+          auf eine gültige Locale.
+
+  -B      benutze bash
+  -Z      benutze zsh
+
+  -q      quiet: keine Informationsmeldungen anzeigen
+  -n      Schwarzweiß: Verwendet keine ANSI-Escape-Codes für Farben
+  -c ...  reicht einen Befehl zur GameShell weiter (zum testen)
+
+Die folgenden Optionen sind nur verfügbar, wenn GameShell aus einem 
+ausführbaren Archiv ausgeführt wird.
+  -X      nur tgz-archiv extrahieren
+  -K      entferne beim Beenden das temporäre GameShell-Verzeichnis nicht
+
+  
