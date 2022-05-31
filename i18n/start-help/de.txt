@@ -25,4 +25,3 @@ ausführbaren Archiv ausgeführt wird.
   -X      nur tgz-archiv extrahieren
   -K      entferne beim Beenden das temporäre GameShell-Verzeichnis nicht
 
-  
