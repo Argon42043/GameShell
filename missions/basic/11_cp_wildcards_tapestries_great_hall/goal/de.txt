@@ -1,0 +1,26 @@
+Missionsziel
+============
+
+Besonders schön sind auch die Wandteppiche in der Großen Halle des 
+Schlosses. Lege jeweils eine Kopie in deine Truhe.
+
+
+Nützliche Befehle
+=================
+
+cp DATEI1 DATEI2 ... DATEIn VERZEICHNISNAME
+  Kopiere die Dateien in das Verzeichnis.
+  Anmerkung: ``cp`` ist eine Abkürzung für "copy".
+
+
+Shell Platzhalter
+=================
+
+*
+  Das Zeichen „*“ steht stellvertretend für eine beliebige 
+  Folge von Zeichen
+  (auch eine Leerfolge).
+
+?
+  Das "?" Zeichen steht stellvertretend für ein beliebiges einzelnes 
+  Zeichen.

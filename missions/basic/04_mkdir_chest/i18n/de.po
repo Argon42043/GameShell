@@ -1,0 +1,45 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest"
+msgstr  "$GSH_HOME/Wald"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+msgid   "Chest"
+msgstr  "Truhe"
+
+msgid   "Hut"
+msgstr  "Hütte"
+
+#, sh-format
+msgid   "The $dir_name directory does not exist!"
+msgstr  "Das Verzeichnis $dir_name existiert nicht!"
+
+msgid   "You are back at the initial directory."
+msgstr  "Du bist wieder im ursprünglichen Verzeichnis."
+
+msgid   "You built too many chests in your hut!"
+msgstr  "Du hast zu viele Truhen in deine Hütte gebaut!"
+
+msgid   "You built too many huts in the forest!"
+msgstr  "Du hast zu viele Hütten im Wald gebaut!"
+
+msgid   "You did not build a chest in your hut!"
+msgstr  "Du hast in deiner Hütte keine Truhe gebaut!"
+
+msgid   "You did not build a hut in the forest!"
+msgstr  "Du hast keine Hütte im Wald gebaut!"

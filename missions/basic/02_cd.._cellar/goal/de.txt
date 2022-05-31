@@ -1,0 +1,26 @@
+Missionsziel
+============
+
+Gehe in den Keller des Schlosses.
+
+
+Nebenziel
+---------
+
+Verstehe den Unterschied zwischen ``cd -`` und ``cd ..``.
+
+
+Nützliche Befehle
+=================
+
+cd -
+  Springe zurück zu dem Ort, an dem du dich vor deinem letzten 
+  Zug befunden hast.
+
+cd ..
+  Wechsele in das übergeordnete Verzeichnis (einen Schritt zurück 
+  entlang des Pfads zu deinem aktuellen Ort).
+
+pwd
+  Zeigt den Pfad zu deinem aktuellen Ort.
+

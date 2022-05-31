@@ -1,0 +1,26 @@
+Missionsziel
+============
+
+Die Spinnen werden schlauer: Sie haben einen Weg gefunden,
+sich zu verstecken. Werde alle Spinnen los, die sich im Keller
+verstecken, ohne die Fledermäuse zu stören.
+
+
+Shell Platzhalter
+=================
+
+*
+  Das Zeichen „*“ steht stellvertretend für eine beliebige 
+  Folge von Zeichen
+  (auch eine Leerfolge).
+
+?
+  Das "?" Zeichen steht stellvertretend für ein beliebiges einzelnes 
+  Zeichen.
+
+
+Anmerkung
+---------
+
+Die Platzhalter "*" und "?" können keine versteckten Dateien sehen,
+du musst am Anfang der Vorlage einen expliziten Punkt hinzufügen.

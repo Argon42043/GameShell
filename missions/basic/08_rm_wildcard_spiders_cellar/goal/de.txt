@@ -1,0 +1,32 @@
+Missionsziel
+============
+
+Werde alle Spinnen los, die im Keller kriechen. Auch hier gilt: 
+Störe die Fledermäuse nicht.
+
+
+Shell Platzhalter
+=================
+
+*
+  Das Zeichen „*“ steht stellvertretend für eine beliebige 
+  Folge von Zeichen
+  (auch eine Leerfolge).
+
+?
+  Das "?" Zeichen steht stellvertretend für ein beliebiges einzelnes 
+  Zeichen.
+
+Diese Platzhalter können verwendet werden, um Listen bestehender 
+Dateien / Verzeichnisse im aktuellen Arbeitsverzeichnis zu 
+kennzeichnen.
+
+Zum Beispiel: wenn der aktuelle Ordner folgendes enthält:
+      datei-1 Ordner-1 datei-14 Kartoffel
+dann
+    *     -->  datei-1 Ordner-1 datei-14 Kartoffel
+    *1    -->  datei-1 Ordner-1
+    *r*   -->  Ordner-1 Kartoffel
+    x*    -->  Fehler, keine passende Datei
+    *-?   -->  datei-1 Ordner-1
+    *-??  -->  datei-14

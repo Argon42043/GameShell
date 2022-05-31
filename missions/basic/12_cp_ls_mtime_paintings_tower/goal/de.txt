@@ -1,0 +1,25 @@
+Missionsziel
+============
+
+Während du durch das Erdgeschoss des Hauptturms schlenderst, fallen 
+dir einige prächtige Gemälde ins Auge. Lege eine Kopie des ältesten 
+in deine Truhe.
+
+
+Nebenziel
+---------
+
+Nimm dir einen Moment Zeit, um die schiere Schönheit der Gemälde zu 
+bewundern.
+
+
+Nützliche Befehle
+=================
+
+ls -l
+  Zeige die Liste der Dateien des aktuellen Verzeichnisses mit 
+  zusätzlichen Informationen an, einschließlich des Datums der 
+  letzten Änderung.
+
+cat DATEI
+  Zeige den Inhalt der Datei an.

@@ -1,0 +1,4 @@
+Herzlichen Glückwunsch !
+
+Von nun an zeigt der ``ls``-Befehl automatisch 
+ein "/"-Zeichen am Ende von Verzeichnissen an.

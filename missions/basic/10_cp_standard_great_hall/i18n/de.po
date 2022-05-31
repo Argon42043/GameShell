@@ -1,0 +1,45 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Castle/Great_hall"
+msgstr  "$GSH_HOME/Schloss/Große_Halle"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest/Hut/Chest"
+msgstr  "$GSH_HOME/Wald/Hütte/Truhe"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+msgid   "I only wanted the standards!"
+msgstr  "Ich wollte nur die Fahnen!"
+
+msgid   "I wanted all the standards!"
+msgstr  "Ich wollte alle Fahnen!"
+
+msgid   "You changed the contents of the great hall!"
+msgstr  "Du hast den Inhalt der großen Halle verändert!"
+
+msgid   "decorative_shield"
+msgstr  "dekorativer_schild"
+
+msgid   "stag_head"
+msgstr  "Hirschkopf"
+
+msgid   "standard"
+msgstr  "Fahne"
+
+msgid   "suit_of_armour"
+msgstr  "Rüstung"

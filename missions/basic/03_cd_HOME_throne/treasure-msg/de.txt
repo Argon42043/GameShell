@@ -1,0 +1,4 @@
+Gut gemacht!!!
+
+Ab sofort wird die aktuelle Position 
+vor der Eingabeaufforderung angezeigt.

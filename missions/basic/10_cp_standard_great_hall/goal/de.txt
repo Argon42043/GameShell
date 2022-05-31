@@ -1,0 +1,14 @@
+Missionsziel
+============
+
+Du hast Gefallen an den vier Fahnen im großen Saal des Schlosses 
+gefunden. Da ein Diebstahl nicht unbemerkt bleiben würde, lege 
+eine Kopie (gleicher Name, gleicher Inhalt) von jeder in deine Truhe.
+
+
+Nützliche Befehle
+=================
+
+cp DATEI VERZEICHNISNAME
+  Kopiere die Datei in das Verzeichnis.
+  Anmerkung: ``cp`` ist eine Abkürzung für "copy".

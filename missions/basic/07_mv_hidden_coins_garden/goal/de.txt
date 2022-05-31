@@ -1,0 +1,30 @@
+Missionsziel
+============
+
+Sammle alle Münzen, die im Garten vor dem Schloss versteckt sind, 
+und lege sie in deine Truhe (in deiner Hütte im Wald).
+
+
+Nebenziel
+---------
+
+Lerne mit der "Tab"-Taste umzugehen um schneller zu werden.
+
+
+Nützliche Befehle
+=================
+
+ls -A
+  Listet alle Dateien des aktuellen Verzeichnisses auf, 
+  einschließlich versteckter Dateien. (Eine Datei ist „versteckt“, 
+  wenn ihr Name mit einem Punkt beginnt.)
+
+Tab
+  Die Tabulatortaste "vervollständigt" den Namen einer Datei oder 
+  eines Verzeichnisses, nachdem du den Anfang des Namens eingegeben 
+  hast. Dies funktioniert nur, wenn es nur eine mögliche 
+  Vervollständigung gibt.
+
+Tab-Tab
+  Wenn du zweimal hintereinander auf Tabulator drückst, wird eine 
+  Liste möglicher Vervollständigungen angezeigt.

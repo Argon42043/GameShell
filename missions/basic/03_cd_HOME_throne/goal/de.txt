@@ -1,0 +1,31 @@
+Missionsziel
+============
+
+Gehe mit nur zwei Befehlen zurück zum Startort und dann in den 
+Thronsaal.
+
+Anmerkung
+---------
+
+Du kannst mit so vielen Befehlen experimentieren, wie du möchtest, 
+aber um die Mission abzuschließen, müssen die folgenden Bedingungen 
+erfüllt sein:
+  - der vorletzte Befehl bringt dich zum Startpunkt,
+  - Der letzte Befehl bringt dich direkt in den Thronsaal.
+
+Nützliche Befehle
+=================
+
+cd
+  Gehe zurück zum Startpunkt.
+
+cd ORT1/ORT2/ORT3
+  Gehe mehrere Schritte in einem Befehl.
+
+
+Remark
+------
+
+GROSSGESCHRIEBENE Wörter, die in Befehlen vorkommen, sind 
+Meta-Variablen: Du musst sie durch entsprechende (String-)Werte 
+ersetzen.
