@@ -16,7 +16,7 @@ Nützliche Befehle
 
 ls -A
   Listet alle Dateien des aktuellen Verzeichnisses auf, 
-  einschließlich versteckter Dateien. (Eine Datei ist „versteckt“, 
+  einschließlich versteckter Dateien. (Eine Datei ist "versteckt", 
   wenn ihr Name mit einem Punkt beginnt.)
 
 Tab

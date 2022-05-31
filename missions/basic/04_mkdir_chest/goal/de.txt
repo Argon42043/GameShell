@@ -1,7 +1,7 @@
 Missionsziel
 ============
 
-Baue eine „Hütte“ im Wald und dann eine „Truhe“ in die Hütte.
+Baue eine "Hütte" im Wald und dann eine "Truhe" in die Hütte.
 
 
 Nützliche Befehle

@@ -31,7 +31,7 @@ msgstr  "Dummy-Mission '$DUMMY_MISSION' ist für Mission $MISSION_NB ($MISSION_N
 msgid   "The command 'tree' is required for mission $MISSION_NAME.\n"
         "(Debian / Ubuntu: install package 'tree')"
 msgstr  "Der Befehl 'tree' ist für die Mission $MISSION_NAME erforderlich.\n"
-        "(Debian / Ubuntu: Installiere das 'tree' Paket)"
+        "(Debian / Ubuntu: Installiere das Paket 'tree')"
 
 msgid   "The silver coin in you chest is invalid!"
 msgstr  "Die Silbermünze in deiner Truhe ist ungültig!"

@@ -16,7 +16,7 @@ Während deinem Abenteuer wirst du Orte besuchen, mit Menschen
 interagieren und verschiedene Objekte finden. Vergiss aber nicht, 
 dass es sich um Standardverzeichnisse, -programme und -dateien 
 (oft mit zufälligen Inhalten) handelt. Also zum Beispiel:
-  - "baue eine Hütte" bedeutet, ein Verzeichnis namens „Hütte“ zu 
+  - "baue eine Hütte" bedeutet, ein Verzeichnis namens "Hütte" zu 
     erstellen, und
   - "lege eine Münze in deine Truhe", bedeutet, eine Datei namens 
     "Münze" in ein Verzeichnis namens "Truhe" zu verschieben

@@ -30,7 +30,7 @@ msgstr  "Dummy-Mission '$DUMMY_MISSION' ist für Mission $MISSION_NB ($MISSION_N
 #, sh-format
 msgid   "The command 'man' is required for mission $MISSION_NAME.\n"
         "(Debian / Ubuntu: install package 'man-db')"
-msgstr  "Für die Mission $MISSION_NAME ist der Befehl „man“ erforderlich.\n"
+msgstr  "Für die Mission $MISSION_NAME ist der Befehl 'man' erforderlich.\n"
         "(Debian / Ubuntu: Installiere das Paket 'man-db')"
 
 msgid   "The ruby in your chest is not valid!"
