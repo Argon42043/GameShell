@@ -1,0 +1,15 @@
+
+Herzlichen Glückwunsch!
+
+Du hast alle Missionen abgeschlossen.
+
+Du kannst GameShell jetzt beenden oder zu einigen alten Missionen 
+zurückkehren.
+
+Verwende ``gsh HELP``, um eine Liste aller GameShell-Befehle zu 
+erhalten.
+Besonders interessant sind die Befehle ``gsh index`` und ``gsh 
+goto N``.
+
+Hinweis: Das Admin-Passwort wurde in '$password' geändert.
+
