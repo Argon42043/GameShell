@@ -1,0 +1,6 @@
+Herzlichen Glückwunsch!
+
+Von nun an wird der Befehl ``ls`` versuchen 
+Farbcodes zu verwenden, um die Unterscheidung 
+zwischen Verzeichnissen und verschiedenen 
+Dateitypen zu erleichtern.

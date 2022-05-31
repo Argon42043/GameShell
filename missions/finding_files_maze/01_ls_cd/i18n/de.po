@@ -1,0 +1,42 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest/Hut/Chest"
+msgstr  "$GSH_HOME/Wald/Hütte/Truhe"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden/Maze"
+msgstr  "$GSH_HOME/Garten/Labyrinth"
+
+# path for the text file containing the goal
+#, sh-format
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+# path for the text file containing the treasure message
+#, sh-format
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+msgid   "Booh... The copper coin in you chest is invalid!"
+msgstr  "Booh... Die Kupfermünze in deiner Truhe ist ungültig!"
+
+#, sh-format
+msgid   "Dummy mission '$DUMMY_MISSION' is required for mission $MISSION_NB ($MISSION_NAME)."
+msgstr  "Dummy-Mission '$DUMMY_MISSION' ist für Mission $MISSION_NB ($MISSION_NAME) erforderlich."
+
+msgid   "There is no copper coin in your chest!"
+msgstr  "In deiner Truhe ist keine Kupfermünze!"
+
+msgid   "There still are some copper coins in the maze!"
+msgstr  "Es sind noch einige Kupfermünzen im Labyrinth!"
+
+msgid   "copper_coin"
+msgstr  "Kupfermünze"

@@ -1,0 +1,28 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden/Flower_garden"
+msgstr  "$GSH_HOME/Garten/Blumengarten"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden/Maze"
+msgstr  "$GSH_HOME/Garten/Labyrinth"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden/Shed"
+msgstr  "$GSH_HOME/Garten/Schuppen"
+
+msgid   "You are back at the entrance of the maze..."
+msgstr  "Du bist wieder am Eingang des Labyrinths ..."
+
+msgid   "bucket"
+msgstr  "Eimer"
+
+msgid   "flowers"
+msgstr  "Blumen"
+
+msgid   "wheelbarrow"
+msgstr  "Schubkarre"

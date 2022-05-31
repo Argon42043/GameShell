@@ -1,0 +1,45 @@
+Missionsziel
+============
+
+Suche im Labyrinth im Garten nach dem Rubin und lege ihn in deine 
+Truhe.
+
+Tipp
+----
+
+Der Dateiname enthält nicht die Zeichenfolge "Rubin". Da es nicht 
+viele Dateien im Labyrinth gibt, besteht eine mögliche Strategie 
+darin, nach allen **Dateien** (im Gegensatz zu Verzeichnissen) zu 
+suchen und von Hand zu überprüfen, welche die Zeichenfolge "Rubin" 
+enthalten.
+
+
+Nützliche Befehle
+=================
+
+find
+  Suche Dateien / Verzeichnisse aus dem aktuellen Verzeichnis.
+
+  Es können Bedingungen über Namen, Größe, Änderungsdatum usw.
+  hinzugefügt werden. Eine interessante Bedingung ist:
+    -type TYP
+
+cat DATEI
+  Zeigt den Inhalt der Datei auf dem Bildschirm an.
+
+man BEFEHL
+  Zeigt das Handbuch des Befehls an.
+
+  Wichtige Tastenbelegung:
+    q               Verlassen
+    Leertaste       eine Seite nach unten scrollen
+    / ZEICHENFOLGE  Suche nach der Zeichenfolge
+    n               gehe zum  nächste Vorkommen der
+                    gesuchten Zeichenfolge
+
+Anmerkung
+---------
+
+Die Beschreibung des ``find``-Befehls ist bewusst kurz gehalten. 
+Weitere Informationen findest du im Handbuch. (Du kannst 
+beispielsweise im Handbuch nach "-type" suchen.)

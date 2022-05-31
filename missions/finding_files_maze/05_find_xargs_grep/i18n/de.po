@@ -1,0 +1,49 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest/Hut/Chest"
+msgstr  "$GSH_HOME/Wald/Hütte/Truhe"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden/Maze"
+msgstr  "$GSH_HOME/Garten/Labyrinth"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+#, sh-format
+msgid   "Dummy mission '$DUMMY_MISSION' is required for mission $MISSION_NB ($MISSION_NAME)."
+msgstr  "Dummy-Mission '$DUMMY_MISSION' ist für Mission $MISSION_NB ($MISSION_NAME) erforderlich."
+
+msgid   "The diamond in your chest is not valid!"
+msgstr  "Der Diamant in deiner Truhe ist ungültig!"
+
+msgid   "The diamond is not in the chest!"
+msgstr  "Der Diamant ist nicht in der Truhe!"
+
+msgid   "The diamond is still in the maze."
+msgstr  "Der Diamant ist immer noch im Labyrinth."
+
+msgid   "There are too many diamonds in the maze!"
+msgstr  "Es gibt zu viele Diamanten im Labyrinth!"
+
+msgid   "There is no diamond in your chest."
+msgstr  "Es sind keinen Diamanten in deiner Truhe."
+
+msgid   "diamond"
+msgstr  "Diamant"
+
+msgid   "stone"
+msgstr  "Stein"

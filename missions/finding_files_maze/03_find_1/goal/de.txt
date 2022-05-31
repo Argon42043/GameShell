@@ -1,0 +1,37 @@
+Missionsziel
+============
+
+Finde die Goldmünzen, die im Labyrinth im Garten versteckt sind, 
+und lege sie in deine Truhe.
+
+
+Nützliche Befehle
+=================
+
+find BEDINGUNG
+  Sucht ausgehend von deinem aktuellen Verzeichnis nach Dateien, 
+  die die Bedingung erfüllen.
+
+  Es gibt viele verschiedene Bedingungen. Du kannst beispielsweise
+  Dateinamen, Größe, Änderungsdatum usw. einschränken. z.B.:
+    -name "MUSTER"
+    -iname "MUSTER"
+  beziehen sich beide auf Dateinamen.
+
+man BEFEHL
+  Zeigt das Handbuch des Befehls an.
+
+  Wichtige Tastenbelegung:
+    q               Verlassen
+    Leertaste       eine Seite nach unten scrollen
+    / ZEICHENFOLGE  Suche nach der Zeichenfolge
+    n               gehe zum  nächste Vorkommen der
+                    gesuchten Zeichenfolge
+
+Anmerkung
+---------
+
+Die Beschreibung des ``find``-Befehls ist bewusst kurz gehalten. 
+Weitere Informationen findest du im Handbuch. (Du kannst 
+beispielsweise im Handbuch nach "-name" suchen.)
+

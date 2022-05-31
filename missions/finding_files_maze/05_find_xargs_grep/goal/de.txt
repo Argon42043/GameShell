@@ -1,0 +1,33 @@
+Missionsziel
+============
+
+Kombiniere mehrere Befehle mit "|" um den Diamanten im Labyrinth 
+zu finden, und lege ihn in deine Truhe.
+
+
+Anmerkung
+---------
+
+Der Dateiname enthält nicht die Zeichenfolge "Diamant". 
+Du musst eine Datei finden, die die Zeichenfolge "Diamant" enthält.
+
+
+Nützliche Befehle
+=================
+
+find
+  sucht nach Dateien aus dem aktuellen Verzeichnis heraus.
+  Bedingungen für die Datei können über Dateinamen, Größe, 
+  Änderungsdatum usw. hinzugefügt werden.
+
+grep [OPTIONEN] ZEICHENFOLGE DATEI1 ... DATEIn
+  Sucht in den Dateien nach einer Zeichenfolge.
+
+  Nützliche Option:
+    -l gibt nur die Namen der Dateien aus, die die Zeichenfolge 
+    enthalten.
+
+xargs BEFEHL
+  liest Zeilen von stdin ein, und führt sie dem Befehl an
+    BEFEHL ZEILE1 ZEILE2 ... ZEILEn
+  ``xargs`` ist besonders nützlich nach einer ``|`` Umleitung.
