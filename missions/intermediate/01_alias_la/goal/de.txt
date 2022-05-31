@@ -1,0 +1,26 @@
+Missionsziel
+============
+
+Die Suche nach versteckten Dateien dauert zu lange!
+
+Erstelleeinen Alias "la", für den Befehl "ls -A", um alle Dateien, 
+einschließlich versteckter Dateien, mit nur 2 Buchstaben aufzulisten.
+
+Definiere das Synonym
+
+  la
+
+für den Befehl
+
+  ls -A
+
+und überprüfe, ob es so funktioniert wie erwartet.
+
+Wie gut, dass genau da, wo du bist, ein schöner Felsen versteckt ist.
+
+
+Nützliche Befehle
+=================
+
+alias ZEICHENFOLGE='BEFEHL'
+  Deklariert eine Zeichenfolge als Synonym für einen Befehl.

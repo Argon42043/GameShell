@@ -1,0 +1,28 @@
+Missionsziel
+============
+
+Im hinteren Teil des Kellers gibt es eine kleine Öffnung, 
+die zum Versteck der Spinnenkönigin führt.
+Geh dorthin und entferne die Spinnenkönigin (und sonst nichts).
+
+
+Hinweis: Du hast dafür nur eine begrenzte Zeit 
+(20 Sekunden). Mit dem Befehl ``gsh reset`` kannst du den 
+Timer zurücksetzen.
+
+Noch etwas: Shell-Platzhalter wurden deaktiviert. Die 
+Platzhalter ``*`` oder ``?`` können nicht verwendet werden.
+
+
+Nützliche Befehle
+=================
+
+Tab
+  Die Tabulatortaste "vervollständigt" den Namen einer Datei oder 
+  eines Verzeichnisses, nachdem du den Anfang des Namens eingegeben 
+  hast. Dies funktioniert nur, wenn es nur eine mögliche 
+  Vervollständigung gibt.
+
+Tab-Tab
+  Wenn du zweimal hintereinander auf Tabulator drückst, wird eine 
+  Liste möglicher Vervollständigungen angezeigt.

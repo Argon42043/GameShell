@@ -1,0 +1,48 @@
+# AUTOMATICALLY GENERATED -- DO NOT EDIT
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest/Hut/Chest"
+msgstr  "$GSH_HOME/Wald/Hütte/Truhe"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/de.txt"
+
+# path for gshrc containing the explanations
+#, sh-format
+msgid   "$MISSION_DIR/gshrc/en.sh"
+msgstr  "$MISSION_DIR/gshrc/de.sh"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/de.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/de.txt"
+
+#, sh-format
+msgid   "It seems you alias doesn't refer to the appropriate file ($target_path).\n"
+        "Make sure to use an absolute path..."
+msgstr  "Anscheinend verweist dein Alias nicht auf die richtige Datei ($target_path).\n"
+        "Stelle sicher, dass du einen absoluten Pfad verwendest ..."
+
+#, sh-format
+msgid   "No alias '$alias_name' has been found..."
+msgstr  "Es wurde kein Alias '$alias_name' gefunden..."
+
+#, sh-format
+msgid   "The command 'nano' is required for mission $MISSION_NAME.\n"
+        "(Debian / Ubuntu: install package 'nano')"
+msgstr  "Der Befehl 'nano' ist für die Mission $MISSION_NAME erforderlich.\n"
+        "(Debian / Ubuntu: Installiere das Paket 'nano')"
+
+#, sh-format
+msgid   "Your alias doesn't use the command '$EDITOR'..."
+msgstr  "Dein Alias verwendet nicht den Befehl '$EDITOR'..."
+
+msgid   "journal"
+msgstr  "Journal"

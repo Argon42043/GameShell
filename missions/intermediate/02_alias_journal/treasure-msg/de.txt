@@ -1,0 +1,7 @@
+Herzlichen Glückwnsch!
+
+Ab sofort kannst du die Datei
+    "~/.gshrc"
+verwenden, um Aliase zu speichern. Weitere 
+Informationen findest du in der Datei (sie 
+wurde für dich erstellt).
